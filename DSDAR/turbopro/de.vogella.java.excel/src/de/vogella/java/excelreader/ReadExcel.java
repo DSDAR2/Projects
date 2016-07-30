@@ -20,7 +20,7 @@ public class ReadExcel {
 		try {
 
 			ReadExcel turboPro = new ReadExcel();
-			String fileName = "C:\\Users\\Dave\\Documents\\DSDAR\\GenerateSql\\MPNOneSidedJournalEntries.xls";
+			String fileName = "C:\\Users\\Dave\\Documents\\DSDAR\\GenerateSql\\MPNCompany2009.xls";
 			System.out.println(fileName);
 
 			turboPro.setInputFile(fileName);
